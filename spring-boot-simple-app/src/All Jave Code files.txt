@@ -1,0 +1,4 @@
+All Java code file structre
+-->java
+-->resiources
+-->tests
